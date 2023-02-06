@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="hint_name">Nombre</string>
+    <string name="help_required">Obligatorio</string>
+    <string name="hint_surname">Apellidos</string>
+    <string name="hint_height">Estatura</string>
+    <string name="help_min_height">Mínimo 50cm</string>
+    <string name="hint_date_birth">Fecha de nacimiento</string>
+    <string name="hint_country">País</string>
+    <string name="hint_place_birth">Lugar de nacimiento</string>
+    <string name="hint_notes">Notas</string>
+    <string name="dialog_title">Datos recolectados</string>
+    <string name="dialog_ok">Limpiar</string>
+    <string name="dialog_cancel">Cancelar</string>
+</resources>
